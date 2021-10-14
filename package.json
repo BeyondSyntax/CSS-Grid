@@ -1,0 +1,16 @@
+{
+  "name": "css-grid",
+  "version": "1.0.0",
+  "description": "css grid by BeyondSyntax.dev",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeyondSyntax/CSS-Grid.git"
+  },
+  "author": "https://github.com/srinivasdareddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeyondSyntax/CSS-Grid/issues"
+  },
+  "homepage": "https://github.com/BeyondSyntax/CSS-Grid#readme"
+}
